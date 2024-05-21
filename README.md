@@ -20,7 +20,7 @@ The analysis is conducted in Python, utilizing Pandas, Matplotlib, Seaborn, NumP
 ### 2. Journey Through Variables 🚶‍♂️
    - Explore intricate relationships between population, total fertility rate, and life expectancy through a visually immersive pair plot.
 
-![Pairplot](images/pairplot.png)
+![Pairplot](https://github.com/GOURIKP/EDA-For-2023-World-Population-Dataset/blob/main/uploaded%20images/Journey%20Through%20Variables.png)
 
 ### 3. Correlation Fiesta 🌈
    - Uncover correlations between diverse features with a vibrant heatmap, offering a holistic view of global demographic dynamics.
