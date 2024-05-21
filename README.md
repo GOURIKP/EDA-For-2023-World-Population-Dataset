@@ -25,7 +25,7 @@ The analysis is conducted in Python, utilizing Pandas, Matplotlib, Seaborn, NumP
 ### 3. Correlation Fiesta 🌈
    - Uncover correlations between diverse features with a vibrant heatmap, offering a holistic view of global demographic dynamics.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/GOURIKP/EDA-For-2023-World-Population-Dataset/blob/main/uploaded%20images/correlations%20between%20diverse%20features.png)
 
 ### 4. Country Count Canvas 🗺️
    - Experience the diversity of countries within the dataset through an elegant count plot, setting the stage for global insights.
