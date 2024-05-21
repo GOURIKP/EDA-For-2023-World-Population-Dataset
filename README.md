@@ -15,7 +15,7 @@ The analysis is conducted in Python, utilizing Pandas, Matplotlib, Seaborn, NumP
 ### 1. Population Spotlight 🌐
    - Gain a nuanced understanding of global population distribution in mid-2023, revealing concentrations and patterns.
 
-![Population Distribution](C:\Users\gouri\OneDrive\Pictures\Screenshots\Screenshot 2024-05-21 200726.png)
+![Population Distribution](https://github.com/GOURIKP/EDA-For-2023-World-Population-Dataset/blob/main/uploaded%20images/Country%20Count%20Canvas.png)
 
 ### 2. Journey Through Variables 🚶‍♂️
    - Explore intricate relationships between population, total fertility rate, and life expectancy through a visually immersive pair plot.
